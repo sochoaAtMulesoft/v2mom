@@ -4,6 +4,12 @@
 
 *Prompt*:  What do you want to achieve
 
+I want to work on a team that stands for world-class excellence in infrastructure 
+automation and engineering.  Our solutions will be resiliant, supportable, and 
+auditable.  I want to be the kind of colleague on our team that can deliver solutions
+for Mulesoft products in a way that sets us up for success in the future while also
+meeting our current business goals.
+
 ## Values
 
 *Prompt*: What principles and beliefs are important to you?
@@ -47,7 +53,7 @@ collaborating often in written form via decision records.
 
   * env config as a service (ui, api, and storage)
   * pipeline traceability service (ui, api, and storage)
-  * mdbook as a service (ui, api, and storage)
+  * mdbook as a service (ui, api, and storage) for user facing documentation
   * design and implement customer service bot with machine learning to reduce support load
 
 * Deliver on Unifed Pipeline PF compliance work
@@ -66,4 +72,11 @@ collaborating often in written form via decision records.
 
 *Prompt*: How will you know when you have succeeded?
 
+In FY23, I will measure success in the following ways:
 
+* UP PFC pipelines adoption rate will be greater than 90%
+* CPC test coverage will increase to at least 50%
+* Support workload will become measurable for product engineering
+* Chat bot will be deployed and handle product sub-area dispatching
+* Pipeline traceability service will show at least one pipeline from start to finish 
+* Two or more teams will publish user-facing documentation on mdbook service
